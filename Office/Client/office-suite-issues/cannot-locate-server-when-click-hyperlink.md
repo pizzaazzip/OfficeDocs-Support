@@ -90,7 +90,7 @@ To work around this issue, either add the ForceShellExecute subkey, if it is not
 
 1. Quit any programs that are running.   
 2. Select **Start**, and then select **Run**. Type **regedit** in the **Open** box, and then select **OK**.   
-3. In Registry Editor, browse to one of the following subkeys (create the keys if they do not exist):
+3. In Registry Editor, browse to one of the following subkeys (create the keys if they do not exist, do not modify the **9.0** to version of Office installed such as 15.0 or 16.0, use 9.0):
 
     - For a 32-bit version of Office on a 64-bit version of Windows:
     
